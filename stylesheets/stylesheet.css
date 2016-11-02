@@ -63,11 +63,11 @@ a {
 }
 
 }
-/**
+
 @media screen and (min-width: 64em) {
   .page-header {
     padding: 5rem 6rem; } }
-**/
+
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
     padding: 3rem 4rem; } }
