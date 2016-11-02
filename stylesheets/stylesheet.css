@@ -56,10 +56,10 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  //background-color: #159957;
-  //background-image: linear-gradient(120deg, #155799, #159957); 
-  background-color: #9d180f;
-  background-image: linear-gradient(120deg, rgb(146, 177, 50), rgb(158, 12, 12));
+  background-color: #AA076B;
+  background-image: linear-gradient(120deg, #AA076B, #61045F); 
+  //background-color: #9d180f;
+  //background-image: linear-gradient(120deg, rgb(146, 177, 50), rgb(158, 12, 12));
 }
 
 }
@@ -118,7 +118,7 @@ a {
   margin-bottom: 1rem;
   font-weight: normal;
  // color: #159957; 
-  color: #9d180f;
+  color: #AA076B;
 
 }
 .main-content p {
