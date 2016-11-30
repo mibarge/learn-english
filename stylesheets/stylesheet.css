@@ -28,6 +28,32 @@ a {
   .btn + .btn {
     margin-left: 1rem; }
 
+/*Added by me */
+
+ .btn2 {
+    background-color:#3a6186;
+    border: none;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px;
+    cursor: pointer;
+  }
+  
+  .alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+/*end added by me*/
+
+
+
 .btn:hover {
   color: rgba(255, 255, 255, 0.8);
   text-decoration: none;
