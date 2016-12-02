@@ -51,7 +51,7 @@ a {
 }
 
 .btn2 span:after {
-  content: '&gt;&gt;';
+  content: '>>';
   position: absolute;
   opacity: 0;
   top: 0;
