@@ -77,13 +77,13 @@ a {
   position: absolute;
   opacity: 0;
   top: 0;
-  right: -20px;
+  left: -20px;
   transition: 0.5s;
 }
 
 .btnBack:hover span:before {
   opacity: 1;
-  right: 0;
+  left: 0;
 }
 
 
