@@ -50,7 +50,11 @@ a {
   transition: 0.5s;
 }
 
-.btn2 span:after {
+.btnForward:hover span {
+  padding-right: 25px;
+}
+
+.btnForward span:after {
   content: '>>';
   position: absolute;
   opacity: 0;
@@ -59,13 +63,13 @@ a {
   transition: 0.5s;
 }
 
-.btn2:hover span {
-  padding-right: 25px;
-}
-
-.btn2:hover span:after {
+.btnForward:hover span:after {
   opacity: 1;
   right: 0;
+}
+
+.btnBack:hover span {
+  padding-left: 25px;
 }
 
 .btnBack span:before {
@@ -77,16 +81,13 @@ a {
   transition: 0.5s;
 }
 
-.btnBack:hover span {
-  padding-right: 25px;
-}
-
-.btnBack:hover span:after {
+.btnBack:hover span:before {
   opacity: 1;
   right: 0;
 }
 
-  .alignleft {
+
+.alignleft {
 	float: left;
 }
 .alignright {
